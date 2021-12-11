@@ -1,7 +1,6 @@
 package com.omega.services.employee.repository;
 
 import com.omega.services.employee.model.Employee;
-import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +9,6 @@ import java.util.stream.Collectors;
 /**
  * Created by fabreu on 11/12/2021
  */
-@Component
 public class EmployeeRepository {
 
     private List<Employee> employees = new ArrayList<>();
