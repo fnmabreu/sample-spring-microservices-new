@@ -14,3 +14,10 @@ Our sample microservices-based system consists of the following modules:
 The following picture illustrates the architecture described above.
 
 <img src="https://piotrminkowski.files.wordpress.com/2018/04/spring-cloud-1.png" title="Architecture"><br/>
+
+
+## Documentation
+
+Here’s Swagger UI for sample microservices system available under address:
+
+http://localhost:8060/swagger-ui.html.
